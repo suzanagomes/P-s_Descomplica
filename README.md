@@ -3,6 +3,13 @@
 
 Este é um projeto de machine learning para verificar se os usuários que efetuaram ou não uma compra em um site (Anúncios de redes sociais).
 
+Dataset original [Kaggle](https://www.kaggle.com/datasets/dragonheir/logistic-regression/data)
+<br>
+Dataset criado para o trabalho [código aqui](https://colab.research.google.com/drive/1uow3q_NRykgsv6fjzOXMWEHg9B2zlPJY?usp=sharing).
+<br>
+Arquivo gerado e usado no trabalho em parquet [arquivo aqui](https://drive.google.com/file/d/1idl1wTQmtlBpxJMG20TTHI93ZEL6SPDD/view?usp=sharing).
+
+
 📜**RESUMO**: Comecei pegando os dados do dataset do Kaggle de Social Network Ads. Porém olhando para o dataset, ele só tinha 400 linhas e 5 colunas. Então para efeito de estudo, fiz através do pandas a criação de um novo dataset fake com 1000 linhas, utilizando as mesmas colunas do dataset original.<br>
 
 🚩**PROBLEMA**: Prever quais clientes estimulados pelos anúncios farão ou não uma compra.<br>
