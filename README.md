@@ -16,4 +16,5 @@ Como: Através da criação de um modelo de regressão.
 - Testar o modelo com novas entradas de dados simuladas, permitindo uma avaliação prática da eficácia do modelo em prever o comportamento de compra de usuários estimulados por anúncios.
 
 
+- A apresentação é curta, pois só tinham 5min de tempo total, mas o código encontra-se detalhado
 Este conteúdo pertence a Suzana de Araujo Gomes. Copyright (c)
